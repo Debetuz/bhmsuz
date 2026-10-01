@@ -1,0 +1,18 @@
+# 22-sonli BHMS «Chet el valyutasida ifodalangan aktivlar va majburiyatlarning hisobi»
+Manba: Iqtisodiyot va moliya vaziri buyrug'i 06.12.2024, 201-son; Adliya vazirligi ro'yxati 19.12.2024, №3587. Matn to'liq yuborilgan (ilova bilan). Asosiy bandlar (lotin).
+
+3. monetar moddalar — miqdori qat'iy belgilangan yoki aniqlanadigan, chet el valyutasida olinadigan/to'lanadigan aktiv va majburiyatlar; nomonetar — qolganlari; kurs farqi — valyutani so'mga o'tkazishda kurs o'zgarishidan so'mdagi farq.
+5. Barcha tashkilotlar so'mda hisob yuritadi va hisobot taqdim etadi (qonunchilikda boshqacha bo'lmasa).
+7. **Chet el valyutasidagi operatsiya operatsiya sanasidagi Markaziy bank kursi bo'yicha tan olinadi.** Ayrim operatsiyalar uchun sanalar — ilovada.
+8. **Har oyda** monetar moddalar hisobot oyining oxirgi sanasidagi (va operatsiya sanasidagi) Markaziy bank kursi bo'yicha qayta baholanadi.
+9. Monetar: kassa va bank hisobvaraqlaridagi valyuta; to'lanishi/olinishi valyutada belgilangan debitor/kreditor qarzlar (qaytarish majburiyatsiz olingan va qaytarish huquqisiz berilgan bo'naklar mustasno); valyutadagi kredit va qarzlar; xodimlar bilan hisob-kitoblar; pul ekvivalentlari; dividendlar.
+10. **Nomonetar: valyutada xarid qilingan ОС, НМА, gudvill, o'rnatiladigan asbob-uskunalar, kapital qo'yilmalar, TMZ** — operatsiya sanasidagi kurs bo'yicha qabul qilingach, kurs o'zgarishi bilan qayta hisoblanmaydi. Shuningdek valyutadagi ustav kapitaliga/aksiyalarga investitsiyalar; qaytarish majburiyatisiz olingan va qaytarish huquqisiz berilgan bo'naklar.
+11. **Kurs farqi moliyaviy natijalarda moliyaviy faoliyatdan daromadlar (xarajatlar) tarkibida hisobga olinadi.**
+12. Aktivlar, ishlar, xizmatlar to'liq/qisman oldindan valyutada to'langan bo'nak hisobiga xarid qilinsa — qiymatning bo'nakka teng qismi bo'nak to'langan sanadagi kursda; realizatsiyada olingan bo'nak — bo'nak olingan sanadagi kursda.
+14. **Kurs farqlarini jamg'arish orqali aks ettirishga yo'l qo'yilmaydi.**
+15. Monetar ↔ nomonetar qayta tasniflashda kurs farqlari perspektiv (joriy va kelgusi davrlar uchun).
+16. Ustav kapitaliga valyutada ulush — ulush kiritilgan sanadagi kursda.
+17–21. Chet elda faoliyat uchun foydalaniladigan aktivlar: monetar moddalar — oy oxiridagi va operatsiya sanasidagi kurs; ОС, НМА, o'rnatiladigan uskunalar, kapital qo'yilmalar, TMZ — buxgalteriya hisobiga qabul qilingan sanadagi kurs (20 — chet el qonunchiligiga ko'ra qayta baholash — o'sha sanadagi kurs); daromad va xarajatlar — hisobot davridagi o'rtacha kurs.
+22–23. Chet eldagi bo'linmani konsolidatsiyaga kiritish: aktiv va majburiyatlar — hisobot sanasidagi kurs; xususiy kapital — hisobot sanasidagi kurs (joriy yil foydasidan tashqari); daromad/xarajat — o'rtacha kurs.
+24. Izohlarda: moliyaviy natijaga olib borilgan kurs farqi; qo'shilgan kapitalga tasniflanadigan kurs farqi; boshqa hisobvaraqlarga olib borilgan; hisobot sanasidan keyingi muhim kurs o'zgarishlari; hisobot sanasidagi MB kursi.
+ILOVA (operatsiya sanalari): bank hisobvaraqlari — kelib tushish/hisobdan chiqarish sanasi; kassa — kirim/chiqim sanasi; daromad va xarajat — tan olish sanasi; **TMZ va boshqa aktivlarni baholash — xarid qilinganini tasdiqlovchi boshlang'ich hujjatlar (tovarning kuzatuv hujjatlari yoki bojxona yuk deklaratsiyasi) mavjud bo'lganda ularni buxgalteriya hisobiga qabul qilish sanasi**; xodimlar hisobdor summalari bo'yicha valyutadagi qarz — bo'nak hisobotini tasdiqlash sanasi; valyutadagi qarzlarni to'lash — to'lov sanasi; ustav kapitali bo'yicha qarz — yuridik shaxs maqomini olgan sana; ustav kapitali shakllanishi — ulushlar kiritilgan sana.

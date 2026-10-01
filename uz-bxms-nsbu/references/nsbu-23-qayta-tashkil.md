@@ -1,0 +1,11 @@
+# 23-sonli BHMS «Qayta tashkil etishni amalga oshirishda moliyaviy hisobotni shakllantirish»
+Manba: Iqtisodiyot va moliya vaziri buyrug'i 14.06.2024, 142-son; Adliya vazirligi ro'yxati 02.08.2024, №3540; kuchga kirishi: rasmiy e'lon qilingan kundan. Holat: matn **63-band o'rtasida uzilgan** (o'zgartirish shakli; ОС va НМА amortizatsiyasi 63-bandda boshlanadi — kelmadi; 3 ta ilova — baholash jadvali — kelmadi). Davlat ishtirokidagi korxonalarni xususiylashtirishga qo'llanilmaydi (4-band). Audit maqolalari uchun kam ahamiyatli; asosiy g'oyalar:
+
+5–6. Shakllar: qo'shib yuborish, qo'shib olish, bo'lish, ajratib chiqarish, o'zgartirish. 9. Qayta tashkil etish davlat ro'yxatidan o'tgan paytdan (qo'shib olishda — Reyestrga faoliyat to'xtatilgani haqida yozuv kiritilgan paytdan).
+10–14. Moliyaviy hisobot topshirish dalolatnomasi yoki taqsimlash balansi asosida shakllantiriladi; ilovalar: moliyaviy hisobot; **inventarizatsiya dalolatnomalari**; moddiy va nomoddiy aktivlar bo'yicha boshlang'ich hujjatlar (ОС, НМА, TMZ qabul qilish-topshirish dalolatnomalari); debitor/kreditorlarni 30 kun ichida xabardor etganlik ma'lumoti.
+15–17. Aktivlar baholash usullari (16-band): xarid tannarxi; boshlang'ich; qoldiq; qayta tiklanish; nominal; ishlab chiqarishning haqiqiy to'la tannarxi; bevosita xarajatlar bo'yicha; rejali/me'yoriy; bozor bahosi.
+20–21. Faoliyatini to'xtatayotgan tashkilot yakuniy moliyaviy hisobot tuzadi; **barcha tartibga soluvchi (kontr-aktiv va kontr-passiv) va baholash hisobvaraqlari yopilgan bo'lishi kerak** (ya'ni eskirish/amortizatsiya hisobvaraqlari ham).
+24. Huquqiy vorislik tartibida topshirish aktivlar va majburiyatlarning chiqib ketishi deb qaralmaydi.
+25. Qayta tashkil etish xarajatlari (ro'yxatdan o'tkazish, yuridik xizmatlar va h.k.) — boshqa operatsion xarajatlar, muhimligidan qat'i nazar shu satrda.
+27. Guruh ichidagi o'zaro qarzlar va investitsiyalar dastlabki balansga kiritilmaydi.
+29–34. Qo'shib yuborish: yakuniy hisobotlar satrma-satr birlashtiriladi; sof aktivlar ustav kapitalidan ko'p bo'lsa farq — «kechiktirilgan daromadlar»; kam bo'lsa — НМА satrida **gudvill**. 35–42. Qo'shib olish (shunga o'xshash). 43–49. Bo'lish. 50–56. Ajratib chiqarish. 57–62. O'zgartirish.

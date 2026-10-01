@@ -1,0 +1,36 @@
+# 4-son BHMS «Tovar-moddiy zaxiralar» (ТМЗ)
+Manba: Moliya vaziri buyrug'i 28.05.2020, 24-son; Adliya vazirligi ro'yxati 30.06.2020, №3259. Kuchga kirishi: rasmiy e'lon qilingan kundan.
+Holat: matn to'liq (73-bandidan keyingi qismi pastda). Quyida audit uchun muhim bandlar so'zma-so'z (lotin).
+
+3. tovar-moddiy zaxiralar — faoliyat yuritish jarayonida keyinchalik sotish maqsadida saqlab turiladigan va ishlab chiqarish jarayonida bo'lgan, shuningdek, mahsulot ishlab chiqarish, ishlarni bajarish yoki xizmatlar ko'rsatish jarayonida yoxud ma'muriy va ijtimoiy-madaniy vazifalarni amalga oshirish uchun foydalaniladigan moddiy aktivlar; realizatsiya qilishning sof qiymati — … joriy qiymati (maqsadiga ko'ra ishlatiladigan holatga keltirish va realizatsiya qilish bo'yicha baholangan xarajatlar chegirilgan holda).
+4. Tovar-moddiy zaxiralar: xom ashyo va materiallar, yarim tayyor mahsulotlar va butlovchi buyumlar, yoqilg'i, tara, ehtiyot qismlar, **inventar va xo'jalik jihozlari**, boshqa materiallar; tugallanmagan ishlab chiqarish; tayyor mahsulot; qayta sotish uchun xarid qilingan **tovarlar (uzoq muddatli aktivlar obyektlari ham keyinchalik sotish yoki qayta sotish maqsadida xarid qilingan hollarda tovar bo'lib hisoblanishi mumkin)**.
+5. **Inventar va xo'jalik jihozlari tarkibiga quyidagi mezonlardan biriga javob beradigan aktivlar kiritiladi: xizmat muddati bir yildan oshmaydigan; xizmat muddatidan qat'i nazar xarid qilish paytida qiymati bir birlik (komplekt) uchun O'zbekiston Respublikasida belgilangan bazaviy hisoblash miqdorining ellik baravarigacha miqdorda bo'lgan aktivlar. Tashkilot rahbari hisob siyosatida aktivlarni inventar va xo'jalik jihozlari tarkibida hisobga olish uchun qiymatining bundan past chegarasini belgilash huquqiga egadir.**
+6. Xizmat muddati hamda qiymatidan qat'i nazar inventar va xo'jalik jihozlariga kiradi: maxsus asboblar va moslamalar; maxsus va sanitariya kiyimlari, maxsus poyabzal; ko'rpa-to'shaklar; kanselyariya ashyolari (kalkulyatorlar, stol jihozlari va hokazo); oshxona inventari; vaqtinchalik (notitul) inshootlar; foydalanish muddati bir yildan kam bo'lgan almashtiriladigan uskunalar; ovlash qurollari.
+8. Zaxiralar aktiv sifatida tan olinadi, agar: kelgusidagi iqtisodiy naf kelishiga ishonch bo'lsa; qiymatini ishonchli baholash mumkin bo'lsa; mulk huquqi o'tsa.
+10. Mulk huquqi tashkilotga tegishli bo'lmagan, biroq shartnoma bo'yicha uning ixtiyorida bo'lgan zaxiralar balansdan tashqari schetlarda shartnomadagi baho bo'yicha aks ettiriladi.
+12. Baholash ikki qiymatdan eng pasti bo'yicha: balans sanasidagi tannarx; shu sanadagi realizatsiya qilishning sof qiymati.
+14–15. Zaxiralar balansga tannarxi bo'yicha kiritiladi: xarid qiymati va xarid bilan bog'liq barcha xarajatlar (bojxona bojlari; **qoplanmaydigan (hisobga olishga qabul qilinmaydigan)** soliq va yig'imlar; vositachilik haqi; sertifikatlash va sinash; transport-tayyorlov xarajatlari).
+17. Xarid uchun haq to'lash bilan bog'liq xarajatlar (akkreditiv, bank komissiyasi), shartnomalarni tayyorlash/ro'yxatdan o'tkazish xarajatlari va xarid bilan bevosita bog'liq bo'lmagan xarajatlar tannarxga kiritilmaydi, yuzaga kelgan davrda xarajat.
+23. Tannarx: **qoplanadigan (hisobga olishga qabul qilinadigan) soliqlarni chegirgan holda** yetkazib beruvchiga to'lanadigan summa + 15-bandda nazarda tutilgan xarajatlar. (Shu sababli hisobga olinadigan QQS tannarxga kirmaydi — 1C da 4410.x.)
+31. Uzoq muddatli aktivlar tarkibidan zaxiralarga o'tkazilgan aktivlarning tannarxi ularning balans (qoldiq) qiymati.
+49. Realizatsiya qilishning sof qiymati tannarxdan past bo'lsa, zaxiralar sof qiymat bo'yicha aks ettiriladi; har bir birlik (tur) bo'yicha aniqlanadi.
+56. Arzonlashish summasi yuzaga kelgan hisobot davri xarajatiga kiritiladi.
+58. Zaxiralar balansdan: realizatsiya; ustav kapitaliga ulush; bepul berish; ayirboshlash; yaroqsizlik/eskirish sababli tugatish; kamomad, yo'qotish yoki shikastlanish va h.k. natijasida hisobdan chiqariladi.
+62–63. Qiymatni aniqlash: identifikatsiyalangan tannarx; o'rtacha tortilgan (AVECO); FIFO. Har bir guruh (tur) bo'yicha hisobot yili mobaynida faqat bir usul.
+68. **Inventar va xo'jalik jihozlarini foydalanishga topshirishda ularning qiymati vazifasiga qarab ishlab chiqarish xarajatlariga yoki davr xarajatlariga to'liq hisobdan chiqarilib, keyin tezkor miqdoriy hisob yuritiladi (foydalanishga kelib tushish sanasi, foydalanish joyi, moddiy javobgar shaxslar).**
+69. Agar inventar va xo'jalik jihozlarining qiymati bir birlik (komplekt) uchun xarid paytidagi bazaviy hisoblash miqdorining **o'n baravaridan ortiq** bo'lsa, tashkilot ularni foydalanishga berishda qiymatini **muddati kechiktirilgan xarajatlarga** kiritishi mumkin; hisobdan chiqarish: mahsulot hajmiga mutanosib yoki teng me'yorda.
+71. Hisobdan chiqarish usuli inventardan foydali ishlatishning butun muddati mobaynida qo'llanadi.
+72. Ishlab chiqarish muddatidan avval to'xtatilsa, kechiktirilgan xarajatlardagi inventar qoldiq qiymati boshqa operatsion xarajat sifatida hisobdan chiqariladi.
+
+## (Давоми — 73-банддан охиригача; фойдаланувчи кейинги хабарда юборган қисм. Матн энди тўлиқ.)
+73–74. Inventar ta'miri va xizmat ko'rsatish xarajatlari vazifasiga qarab ishlab chiqarish yoki davr xarajatiga; foydalanish jarayonida tannarxni qismlarni almashtirish orqali o'zgartirishga yo'l qo'yilmaydi.
+75. Foydalanishda bo'lgan, keyin o'z vazifasi bo'yicha foydalanilmayotgan inventar boshqa operatsion daromad sifatida realizatsiya qilishning sof qiymati bo'yicha kirim qilinishi mumkin; kechiktirilgan xarajatlar schyotidagi qoldiq moliyaviy natijaga.
+76. **Inventar va xo'jalik jihozlari qiymatini foydalanishga berishda to'liq xarajatga hisobdan chiqarishda, ularning keyinchalik saqlanishini ta'minlash maqsadida hisobini sex omborchilari va alohida foydalanuvchilar bo'yicha balansdan tashqari schyotlarda yuritish lozim.**
+77. Foydalanishga berishda hisobdan chiqarish tartibi va qiymatni xarajatga kiritish usuli hisob siyosatida aks ettiriladi.
+78. Inventar qiymatini balansdan tashqari hisobvaraqlardan chiqarish haqiqatda hisobdan chiqarilganda va birlamchi hujjatlar bilan tasdiqlangandagina.
+79–86. Tara: saqlash/o'rash/tashish; ko'p marotaba va bir marta ishlatiladigan; garov summasi; qaytarilmasa garov summasi yetkazib beruvchining moliyaviy natijasiga; ta'mir xarajatlari davr xarajatiga; yaroqsiz tara dalolatnoma bilan hisobdan chiqariladi.
+87–89. O'stirishdagi va boquvdagi hayvonlar (tirik vazn o'sishi muntazam baholanadi).
+90–92. **Inventarizatsiya yilida kamida bir marta** (19-son BHMS tartibida); kamomad balans qiymati bo'yicha; aybdor topilmasa/undirish imkoni bo'lmasa moliyaviy natijaga; ortiqcha zaxira — boshqa operatsion daromad; kamomad aybdor aniqlanguncha «kamomadlar va qiymatliklarning buzilishidan yo'qotishlar» schyotida.
+93–102. Ishonchnoma bilan tovar-moddiy zaxiralarni olish (daftar yoki jurnal; elektron shakl; muddat; qaytarish; berilmaydigan hollar). Shakllar — 1, 2, 3-ilovalar.
+103–105. Hisobga olish tizimi: uzluksiz (doimiy) yoki davriy; tanlangan tizim hisob siyosatida aks ettiriladi.
+106. Moliyaviy hisobotda yoritiladi: baholash usullari (hisob siyosati); yakuniy balans summasi va tasnif; sof qiymatgacha jiddiy hisobdan chiqarish va sabablari; tiklash summalari; garovga qo'yilgan zaxiralar; chiqib ketgan zaxiralar tannarxi.
