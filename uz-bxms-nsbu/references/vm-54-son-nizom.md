@@ -1,7 +1,7 @@
 ---
 Manba: O'zbekiston Respublikasi Vazirlar Mahkamasining 1999 yil 5 fevraldagi 54-son qarori bilan tasdiqlangan Nizom
 Nomi: Mahsulot (ishlar, xizmatlar)ni ishlab chiqarish va sotish xarajatlari tarkibi hamda moliyaviy natijalarni shakllantirish tartibi to'g'risidagi Nizom
-Eslatma: matn foydalanuvchi tomonidan taqdim etilgan (kirill yozuvida). Tahrirlari matn oxirida 05.04.2022 gacha ko'rsatilgan; hozirgi holati lex.uz da tekshirilmagan.
+Eslatma: matn foydalanuvchi tomonidan taqdim etilgan (kirill yozuvida). Manba: https://lex.uz/docs/265675 (ruscha). Tahrirlari matn oxirida 05.04.2022 gacha ko'rsatilgan; 2026 yilga yangi tahriri yo'q (foydalanuvchi lex.uz da tasdiqlagan).
 Bogliq: nsbu-17-qurilish-pudrat.md (54-son qarori nizomiga havola), nsbu-04-tmz.md, nsbu-21-hisobvaraqlar-rejasi.md
 ---
 
